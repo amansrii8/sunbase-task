@@ -4,8 +4,6 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="search">Search</string>
-    <string name="access_key">_Zj-TIAd4z8VhOSNyH019CDXxiEG1xo8E0KvmYuTunI</string>
-    <string name="secret_key">ZLOezA-YmGPXEOjPwswJoHkXk6IP41GuWbuFNfYTV_I</string>
     <string name="retry">Retry</string>
     <string name="type_something">Type something</string>
     <string name="default_search">puppy</string>

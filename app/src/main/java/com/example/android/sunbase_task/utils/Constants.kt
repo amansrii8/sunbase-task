@@ -10,7 +10,7 @@ import androidx.swiperefreshlayout.widget.CircularProgressDrawable
 
 const val BASE_URL = "https://api.unsplash.com/"
 const val STARTING_PAGE_INDEX = 1
-const val client_id = "_Zj-TIAd4z8VhOSNyH019CDXxiEG1xo8E0KvmYuTunI"
+const val client_id = "add your client id"
 
 fun isOnline(context: Context?): Boolean {
     val connectivityManager =
